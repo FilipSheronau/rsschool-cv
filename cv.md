@@ -15,3 +15,16 @@ My goal is to become a front-end developer. I have a great desire to learn new t
 * jQuery, Bootstrap, Vue.js, Laravel, Node.js
 * Git, GidHub, BitBucket
 * VSCode, Jetbrains Phpstorm, Photoshop
+
+## Experience
+
+From 2015 I'm freelancer
+
+## Education
+
+* 2011 - Borisov state College (Secondary)
+* 2017 - Belarusian state University of Informatics and Radioelectronics (higher)
+
+## English
+
+A2 (Pre-intermediate)
