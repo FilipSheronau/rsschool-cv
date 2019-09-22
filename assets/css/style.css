@@ -1,0 +1,85 @@
+body {
+  padding: 10px;
+}
+
+.main-container {  
+  max-width: 800px;
+  margin: 10px auto;
+  font-family: "Segoe UI",Helvetica,Arial,sans-serif;
+  color: #24292e;  
+}
+
+a {
+  font-family: "Segoe UI",Helvetica,Arial,sans-serif;
+  text-decoration: none;
+  color: #24292e;
+}
+
+a:hover {
+  color: #888888;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+.contact-info {
+  margin-bottom: 0;
+}
+
+h1 {
+  padding-bottom: 0.3em;
+  font-size: 2em;
+  border-bottom: 1px solid #eaecef;
+}
+
+h2 {
+  padding-bottom: 0.3em;
+  padding-left: 1em;
+  font-size: 1.5em;
+  border-bottom: 1px solid #eaecef;  
+}
+
+.top-block {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.photo {
+  flex: 0 1 150px;
+  width: 150px;
+  margin: 1.2em 1.5em 0 0;
+  border: 3px solid #eaecef;  
+}
+
+.contact-info {
+  flex: 1 1 auto;  
+}
+
+ul {
+  line-height: 2em;
+}
+
+.contact-info h2 {
+  border-left: 8px solid #FF0000;
+}
+
+.summary h2{
+  border-left: 8px solid #FFA500; 
+}
+
+.skills h2{
+  border-left: 8px solid #FFFF00; 
+}
+
+.experience h2{
+  border-left: 8px solid #00FF00; 
+}
+
+.education h2{
+  border-left: 8px solid #00ffff; 
+}
+
+.english h2{
+  border-left: 8px solid #0000FF; 
+}
