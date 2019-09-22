@@ -9,6 +9,16 @@ body {
   color: #24292e;  
 }
 
+a {
+  font-family: "Segoe UI",Helvetica,Arial,sans-serif;
+  text-decoration: none;
+  color: #24292e;
+}
+
+a:hover {
+  color: #888888;
+}
+
 section {
   margin-bottom: 40px;
 }
